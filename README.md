@@ -5,4 +5,5 @@ My role in the project was to create an interactive Shiny App website that analy
 The code for the Shiny App is contained within the file "app.R", and the data used in this project is contained within the file "energy_forecast_data.csv".
 
 Additionally, a link to the Shiny App can be found below:
+
 https://stlawu.shinyapps.io/EIA_Data_Analysis_v2/
